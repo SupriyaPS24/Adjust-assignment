@@ -1,6 +1,4 @@
-# Adjust Assignment
-
-## Task: Play with File and Characters
+## Play with File and Characters
 ### Objective
 This readme file has the details of the challenge given and solutions offered.
 
